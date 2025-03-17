@@ -1,0 +1,14 @@
+/Users/devdark/Documents/project/MyFractionProject/bin/Debug/net9.0/MyFractionProject
+/Users/devdark/Documents/project/MyFractionProject/bin/Debug/net9.0/MyFractionProject.deps.json
+/Users/devdark/Documents/project/MyFractionProject/bin/Debug/net9.0/MyFractionProject.runtimeconfig.json
+/Users/devdark/Documents/project/MyFractionProject/bin/Debug/net9.0/MyFractionProject.dll
+/Users/devdark/Documents/project/MyFractionProject/bin/Debug/net9.0/MyFractionProject.pdb
+/Users/devdark/Documents/project/MyFractionProject/obj/Debug/net9.0/MyFractionProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdark/Documents/project/MyFractionProject/obj/Debug/net9.0/MyFractionProject.AssemblyInfoInputs.cache
+/Users/devdark/Documents/project/MyFractionProject/obj/Debug/net9.0/MyFractionProject.AssemblyInfo.cs
+/Users/devdark/Documents/project/MyFractionProject/obj/Debug/net9.0/MyFractionProject.csproj.CoreCompileInputs.cache
+/Users/devdark/Documents/project/MyFractionProject/obj/Debug/net9.0/MyFractionProject.dll
+/Users/devdark/Documents/project/MyFractionProject/obj/Debug/net9.0/refint/MyFractionProject.dll
+/Users/devdark/Documents/project/MyFractionProject/obj/Debug/net9.0/MyFractionProject.pdb
+/Users/devdark/Documents/project/MyFractionProject/obj/Debug/net9.0/MyFractionProject.genruntimeconfig.cache
+/Users/devdark/Documents/project/MyFractionProject/obj/Debug/net9.0/ref/MyFractionProject.dll
