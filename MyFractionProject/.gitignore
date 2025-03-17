@@ -1,0 +1,16 @@
+# Ignore build files
+bin/
+obj/
+
+# Ignore user-specific and IDE files
+.vscode/
+*.suo
+*.user
+*.db
+*.bak
+
+# Ignore logs and environment files
+logs/
+*.log
+.env
+secrets.json
